@@ -1,2 +1,2 @@
 # Brush-Up-Course
-September 2026
+Este documento te ayuda a cambiar los temas que requieras para terminar las tareas
